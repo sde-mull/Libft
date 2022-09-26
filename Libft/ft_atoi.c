@@ -3,14 +3,18 @@
 /*                                                        :::      ::::::::   */
 /*   ft_atoi.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sde-mull <sde-mull@student.42.fr>          +#+  +:+       +#+        */
+/*   By: sde-mull <sde.mull@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/20 14:51:18 by sde-mull          #+#    #+#             */
-/*   Updated: 2021/11/03 16:55:58 by sde-mull         ###   ########.fr       */
+/*   Updated: 2022/09/26 02:52:17 by sde-mull         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
+/*
+Ft_atoi is a function that converts the string argument str to an integer of type int.
+*/
 
 int	ft_atoi(const char *str)
 {

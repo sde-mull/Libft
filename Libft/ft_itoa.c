@@ -12,6 +12,10 @@
 
 #include "libft.h"
 
+/*
+Ft_itoa is a function that receives an integer as an argument and converts it to a string.
+*/
+
 static int	ft_number_len(int n)
 {
 	int	int_len;

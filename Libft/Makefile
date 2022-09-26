@@ -40,28 +40,28 @@ RESET = 	\033[0m
 all: $(NAME)
 
 $(NAME): $(OBJ) $(INCLUDE)
-		@echo "$(YELLOW)[ Compiling Libft_Mandatory... ] $(RESET)"
+		@echo "$(YELLOW)[Compiling Libft_Mandatory...] $(RESET)"
 		@ar -rcs $(NAME) $(OBJ)
-		@echo "$(GREEN)[Libft_Mandatory Compiled! ] $(RESET)"
+		@echo "$(GREEN)[Libft_Mandatory Compiled!] $(RESET)"
 
 bonus:		$(NAME) $(BONUS_O)
-			@echo "$(YELLOW)[ Compiling Libft_Bonus... ] $(RESET)"
+			@echo "$(YELLOW)[Compiling Libft_Bonus...] $(RESET)"
 			@ar -rcs $(NAME) $(BONUS_O)
-			@echo "$(GREEN)[Libft_Bonus Compiled! ] $(RESET)"
+			@echo "$(GREEN)[Libft_Bonus Compiled!] $(RESET)"
 
 %.o: %.c $(INCLUDE)
 		@$(CC) $(CFLAGS) -c $< -o $@
 
 clean: 
-		@rm -rf $(OBJ)
+		@rm -rf $(OBJ) $(BONUS_O)
 		@echo "$(GREEN)[Libft Cleaned] $(RESET)"
 
 fclean:	
-		@rm -rf $(OBJ) $(NAME)
+		@rm -rf $(OBJ) $(BONUS_O) $(NAME)
 		@echo "$(GREEN)[Libft Full Cleaned] $(RESET)"
 
 re: fclean all
 
 rebonus:	fclean bonus
 
-.PHONY: all clean fclean re bonus rebonus
+.PHONY: all clean fclean re bonus rebonus full

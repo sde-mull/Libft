@@ -3,14 +3,22 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strlcpy.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sde-mull <sde-mull@student.42.fr>          +#+  +:+       +#+        */
+/*   By: sde-mull <sde.mull@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/20 14:51:57 by sde-mull          #+#    #+#             */
-/*   Updated: 2021/11/02 19:10:39 by sde-mull         ###   ########.fr       */
+/*   Updated: 2022/09/26 03:15:39 by sde-mull         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
+/*
+Ft_strlcpy is a function that copy and concatenate strings.
+Ft_strlcpy copies up to dstsize - 1 characters from the string src to dst, 
+NULL-terminating the result if dstsize is not 0.
+Ft_strlcpy() take the full size of the destination buffer and guarantee
+NUL-termination if there is room.
+*/
 
 size_t	ft_strlcpy(char *dst, const char *src, size_t size)
 {

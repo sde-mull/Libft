@@ -3,14 +3,21 @@
 /*                                                        :::      ::::::::   */
 /*   ft_memcmp.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sde-mull <sde-mull@student.42.fr>          +#+  +:+       +#+        */
+/*   By: sde-mull <sde.mull@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/20 14:51:44 by sde-mull          #+#    #+#             */
-/*   Updated: 2021/10/26 15:08:13 by sde-mull         ###   ########.fr       */
+/*   Updated: 2022/09/26 02:49:38 by sde-mull         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
+/*
+Ft_memcmp is a function that returns zero if the two strings are identical, 
+otherwise returns the difference between the first two differing bytes. 
+Zero-length strings are always identical. This behavior is not required by C 
+and portable code should only depend on the sign of the returned value.
+*/
 
 int	ft_memcmp(const void *s1, const void *s2, size_t n)
 {

@@ -3,14 +3,18 @@
 /*                                                        :::      ::::::::   */
 /*   ft_memmove.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sde-mull <sde-mull@student.42.fr>          +#+  +:+       +#+        */
+/*   By: sde-mull <sde.mull@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/20 14:51:48 by sde-mull          #+#    #+#             */
-/*   Updated: 2021/11/16 14:37:01 by sde-mull         ###   ########.fr       */
+/*   Updated: 2022/09/26 02:49:27 by sde-mull         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
+/*
+Ft_memmove is a function copies len bytes from string src to string dst.
+*/
 
 void	*ft_memmove(void *dst, const void *src, size_t len)
 {
