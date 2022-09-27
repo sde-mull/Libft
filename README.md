@@ -34,3 +34,15 @@ make rebonus      //to recompile the bonus part only
 ```
 
 <h2>Functions</h2>
+
+<table>
+  <tr>
+    Mandatory
+  </tr>
+  <tr>
+    <td>[Ft_atoi](https://github.com/sde-mull/Libft/blob/main/Libft/ft_atoi.c)</td>
+    <td>[Ft_bzero](https://github.com/sde-mull/Libft/blob/main/Libft/ft_bzero.c)</td>
+    <td>[Ft_calloc](https://github.com/sde-mull/Libft/blob/main/Libft/ft_calloc.c)</td>
+    <td>[Ft_isalnum](https://github.com/sde-mull/Libft/blob/main/Libft/ft_isalnum.c)</td>
+  </tr>
+</table>
