@@ -21,3 +21,16 @@
 git clone mhttps://github.com/sde-mull/Libft.git
 ```
 <h4>Run the Makefile</h4>
+
+```bash
+make              //to compile all the files
+make mandatory    //to compile the mandatory part only
+make bonus        //to compile the bonus part only
+make clean        //to remove all the object files
+make fclean       //to remove all object files and the .a
+make re           //to recompile all files
+make remandatory  //to recompile the mandatorys part only
+make rebonus      //to recompile the bonus part only
+```
+
+<h2>Functions</h2>
