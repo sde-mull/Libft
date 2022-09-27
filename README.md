@@ -5,7 +5,7 @@
   </tr>
 </table>
 
->**_Your very first own library!_**<br>_This project is about coding a C library_</br>
+>**_My very first own library!_**<br>_This project is about coding a C library_</br>
 
 <h2>Project Information</h2>
 <p align="justified">
@@ -13,3 +13,4 @@
   standard functions.<br>This project is about understanding the way these functions work,
   implementing and learning to use them.</br>It's about creating your own library that will
   be helpful in the future projects.
+</p>
