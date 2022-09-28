@@ -71,4 +71,37 @@ make rebonus      //to recompile the bonus part only
   
   [Ft_isalnum](https://github.com/sde-mull/Libft/blob/main/Libft/ft_isalnum.c)
   
+</tr><tr><td>
+  
+  [Ft_itoa](https://github.com/sde-mull/Libft/blob/main/Libft/ft_itoa.c)
+
+</td><td>
+  
+  [Ft_memchr](https://github.com/sde-mull/Libft/blob/main/Libft/ft_memchr.c)
+
+</td><td>
+  
+  [Ft_memcmp](https://github.com/sde-mull/Libft/blob/main/Libft/ft_memcmp.c)
+
+</td><td>
+  
+  [Ft_memcpy](https://github.com/sde-mull/Libft/blob/main/Libft/ft_memcpy.c)
+
+</td><td>
+  
+  [Ft_memmove](https://github.com/sde-mull/Libft/blob/main/Libft/ft_memmove.c)
+
+</td><td>
+  
+  [Ft_memset](https://github.com/sde-mull/Libft/blob/main/Libft/ft_memset.c)
+
+</td><td>
+  
+  [Ft_putchr_fd](https://github.com/sde-mull/Libft/blob/main/Libft/ft_putchr_fd.c)
+
+</td><td>
+  
+  [Ft_putendl_fd](https://github.com/sde-mull/Libft/blob/main/Libft/ft_putendl_fd.c)
+
 </tr><tr>
+  
