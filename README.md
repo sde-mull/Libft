@@ -18,7 +18,7 @@
 <h4>Clone the repository</h4>
 
 ```bash
-git clone mhttps://github.com/sde-mull/Libft.git
+git clone https://github.com/sde-mull/Libft.git
 ```
 <h4>Run the Makefile</h4>
 
