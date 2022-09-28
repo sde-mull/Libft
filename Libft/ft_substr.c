@@ -29,7 +29,7 @@ char	*ft_substr(char const *s, unsigned int start, size_t len)
 		return (NULL);
 	if (start > ft_strlen(s))
 		return (ft_strdup(""));
-	while (s[count] != '\0' && count < len)
+	while (s[count + start] != '\0' && count < len)
 		count++;
 	str = (char *)malloc(sizeof(char) * (count + 1));
 	if (str == 0)
