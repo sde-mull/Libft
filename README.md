@@ -103,5 +103,76 @@ make rebonus      //to recompile the bonus part only
   
   [Ft_putendl_fd](https://github.com/sde-mull/Libft/blob/main/Libft/ft_putendl_fd.c)
 
-</tr><tr>
+</tr><tr><td>
   
+  [Ft_putnbr_fd](https://github.com/sde-mull/Libft/blob/main/Libft/ft_putnbr_fd.c)
+
+</td><td>
+  
+  [Ft_putstr_fd](https://github.com/sde-mull/Libft/blob/main/Libft/ft_putstr_fd.c)
+
+</td><td>
+  
+  [Ft_split](https://github.com/sde-mull/Libft/blob/main/Libft/ft_split.c)
+
+</td><td>
+  
+  [Ft_strchr](https://github.com/sde-mull/Libft/blob/main/Libft/ft_strchr.c)
+
+</td><td>
+  
+  [Ft_strdup](https://github.com/sde-mull/Libft/blob/main/Libft/ft_strdup.c)
+
+</td><td>
+  
+  [Ft_striteri](https://github.com/sde-mull/Libft/blob/main/Libft/ft_striteri.c)
+
+</td><td>
+  
+  [Ft_strjoin](https://github.com/sde-mull/Libft/blob/main/Libft/ft_strjoin.c)
+
+</td><td>
+  
+  [Ft_srlcat](https://github.com/sde-mull/Libft/blob/main/Libft/ft_strlcat.c)
+
+</tr><tr><td>
+  
+  [Ft_strlcpy](https://github.com/sde-mull/Libft/blob/main/Libft/ft_strlcpy.c)
+
+</td><td>
+  
+  [Ft_strlen](https://github.com/sde-mull/Libft/blob/main/Libft/ft_strlen.c)
+
+</td><td>
+  
+  [Ft_strmapi](https://github.com/sde-mull/Libft/blob/main/Libft/ft_strmapi.c)
+
+</td><td>
+  
+  [Ft_strncmp](https://github.com/sde-mull/Libft/blob/main/Libft/ft_strncmp.c)
+
+</td><td>
+  
+  [Ft_strnstr](https://github.com/sde-mull/Libft/blob/main/Libft/ft_strnstr.c)
+
+</td><td>
+  
+  [Ft_strrchr](https://github.com/sde-mull/Libft/blob/main/Libft/ft_strrchr.c)
+
+</td><td>
+  
+  [Ft_strtrim](https://github.com/sde-mull/Libft/blob/main/Libft/ft_strtrim.c)
+
+</td><td>
+  
+  [Ft_substr](https://github.com/sde-mull/Libft/blob/main/Libft/ft_substr.c)
+
+</tr><tr><td>
+  
+  [Ft_tolower](https://github.com/sde-mull/Libft/blob/main/Libft/ft_tolower.c)
+
+</td><td>
+  
+  [Ft_toupper](https://github.com/sde-mull/Libft/blob/main/Libft/ft_toupper.c)
+
+</tr>
