@@ -176,3 +176,47 @@ make rebonus      //to recompile the bonus part only
   [Ft_toupper](https://github.com/sde-mull/Libft/blob/main/Libft/ft_toupper.c)
 
 </tr>
+</table>
+
+<table><tr>
+ 
+   <h4>Bonus</h4>
+  
+</tr><td>
+  
+  [Ft_lstadd_back](https://github.com/sde-mull/Libft/blob/main/Libft/ft_lstadd_back.c)
+
+</td><td>
+  
+  [Ft_lstadd_front](https://github.com/sde-mull/Libft/blob/main/Libft/ft_lstadd_front.c)
+  
+</td><td>
+  
+  [Ft_lstclear](https://github.com/sde-mull/Libft/blob/main/Libft/ft_lstclear.c)
+
+</tr><tr><td>
+  
+  [Ft_lstdelone](https://github.com/sde-mull/Libft/blob/main/Libft/ft_lstdelone.c)
+  
+</td><td>
+  
+  [Ft_lstiter](https://github.com/sde-mull/Libft/blob/main/Libft/ft_lstiter.c)
+  
+</td><td>
+  
+  [Ft_lstlast](https://github.com/sde-mull/Libft/blob/main/Libft/ft_lstlast.c)
+  
+</tr><tr><td>
+  
+  [Ft_lstmap](https://github.com/sde-mull/Libft/blob/main/Libft/ft_lstmap.c)
+  
+</td><td>
+  
+  [Ft_lstnew](https://github.com/sde-mull/Libft/blob/main/Libft/ft_lstnew.c)
+
+</td><td>
+  
+  [Ft_lstsize](https://github.com/sde-mull/Libft/blob/main/Libft/ft_lstsize.c)
+  
+  </td></tr>
+ </table>
