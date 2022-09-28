@@ -35,14 +35,40 @@ make rebonus      //to recompile the bonus part only
 
 <h2>Functions</h2>
 
-<table>
-  <tr>
-    Mandatory
-  </tr>
-  <tr>
-    <td>[Ft_atoi](https://github.com/sde-mull/Libft/blob/main/Libft/ft_atoi.c)</td>
-    <td>[Ft_bzero](https://github.com/sde-mull/Libft/blob/main/Libft/ft_bzero.c)</td>
-    <td>[Ft_calloc](https://github.com/sde-mull/Libft/blob/main/Libft/ft_calloc.c)</td>
-    <td>[Ft_isalnum](https://github.com/sde-mull/Libft/blob/main/Libft/ft_isalnum.c)</td>
-  </tr>
-</table>
+<table><tr>
+ 
+   <h4>Mandatory</h4>
+  
+</tr><td>
+  
+  [Ft_atoi](https://github.com/sde-mull/Libft/blob/main/Libft/ft_atoi.c)
+
+</td><td>
+  
+  [Ft_bzero](https://github.com/sde-mull/Libft/blob/main/Libft/ft_bzero.c)
+  
+</td><td>
+  
+  [Ft_calloc](https://github.com/sde-mull/Libft/blob/main/Libft/ft_calloc.c)
+
+</td><td>
+  
+  [Ft_isalnum](https://github.com/sde-mull/Libft/blob/main/Libft/ft_isalnum.c)
+  
+</td><td>
+  
+  [Ft_isascii](https://github.com/sde-mull/Libft/blob/main/Libft/ft_isascii.c)
+  
+</td><td>
+  
+  [Ft_isdigit](https://github.com/sde-mull/Libft/blob/main/Libft/ft_isdigit.c)
+  
+</td><td>
+  
+  [Ft_isprint](https://github.com/sde-mull/Libft/blob/main/Libft/ft_isprint.c)
+  
+</td><td>
+  
+  [Ft_isalnum](https://github.com/sde-mull/Libft/blob/main/Libft/ft_isalnum.c)
+  
+</tr><tr>
