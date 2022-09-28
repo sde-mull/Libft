@@ -220,3 +220,8 @@ make rebonus      //to recompile the bonus part only
   
   </td></tr>
  </table>
+
+<h2>Grade:</h2>
+
+<img width="1064" alt="image" src="https://user-images.githubusercontent.com/78042197/192794494-9cf77bec-9bbd-4710-ad30-0af2e0f30dbe.png">
+
